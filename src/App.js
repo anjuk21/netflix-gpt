@@ -1,10 +1,10 @@
+import Body from './components/Body';
 
-import './App.css';
 
 function App() {
   return (
-    <div className="text-red-700">
-      Hello World
+    <div >
+     <Body />
     </div>
   );
 }
